@@ -43,3 +43,7 @@ Run development server:
 ```bash
 npm run dev
 ```
+
+## 💡 Learning & Improvement
+
+This project helped me improve my understanding of React Router, dynamic routing, API fetching, and TypeScript-based application development. I also gained hands-on experience building reusable components and responsive UI with Tailwind CSS.
